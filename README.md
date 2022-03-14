@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuyongxin1
 - 👀 I’m interested in mobile & pc developing
-- 🌱 I’m currently learning C++ and Kotlin
+- 🌱 I’m currently learning C# and JS
 - 📫 How to reach me: discord - xin#3562 or twitter - @seikidaww
 
 <!---
