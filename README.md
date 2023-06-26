@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuyongxin1
-- 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning C# and TS
+- 👀 I’m interested in back-end and devops developing
+- 🌱 I’m currently learning C#, Lua and Rust
 - 📫 How to reach me: discord - xin#3562 or twitter - @seikidaww
 
 <!---
