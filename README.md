@@ -9,6 +9,6 @@
 
 # Software and/or Tools
 
-**Docker, Git, Emacs, Overleaf (online LaTeX), Excalidraw, Librewolf, Visual Studio 2022**
+**Docker, Dbeaver, Git, Nvim, Overleaf (online LaTeX), Excalidraw, Librewolf, VSCodium**
 
-**OS: Windows 11 with Ubuntu WSL 2.0**
+**OS: Arch Linux**
