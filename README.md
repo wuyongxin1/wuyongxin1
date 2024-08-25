@@ -1,4 +1,4 @@
-*I'm starting developer in back-end. Currently a university student.*
+*I'm backend developer. Currently a university student.*
 # Languages
 
 **CSharp and Golang**
@@ -7,8 +7,8 @@
 
 **Session ID:** 05cf84b6f35a7604533eca454082f683d02b77816743522b4560459dd07ca08f76
 
-# Software and/or Tools
+# Software and Tools
 
-**Docker, Dbeaver, Git, Nvim, Overleaf (online LaTeX), Excalidraw, Librewolf, VSCodium**
+**DBeaver, Obsidian, Overleaf (online LaTeX), Firefox, VSCodium**
 
-**OS: Arch Linux**
+**OS: Windows**
