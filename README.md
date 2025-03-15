@@ -1,7 +1,9 @@
 *I'm backend developer. Currently a university student.*
 # Languages
 
-**CSharp and Golang**
+**Python**
+
+**Golang**
 
 # How to reach out to me
 
@@ -9,6 +11,6 @@
 
 # Software and Tools
 
-**DBeaver, Obsidian, Overleaf (online LaTeX), Firefox, VSCodium**
+**DBeaver, Obsidian, Overleaf (online LaTeX), Firefox, VSCodium, Zed**
 
-**OS: Windows**
+**OS: Windows 11**
